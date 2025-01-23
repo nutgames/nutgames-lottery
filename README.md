@@ -1,6 +1,6 @@
 # The Nutgames Lottery
 
- Nutgames Lottery Smart Contract is based on a lottery system using randomness provided externally by ChainLink VRF (Verifiable Random Function).
+ Nutgames Lottery Smart Contract is based on a lottery system using **randomness** provided externally by **ChainLink VRF** (Verifiable Random Function).
 
 **NB**: Source code added on explorers using **Solidity Standard Json-Input format**; this format have been generated from the .sol files and the compiler_config.json (viaIR) available here, using Remix Solidity Compiler (this Standard Json-Input generated format is located in Remix local repository: contracts/artifacts/build-info).
 
